@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/css/main.857bc498.chunk.css",
+    "main.js": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/js/main.738bdfbd.chunk.js",
+    "main.js.map": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/js/main.738bdfbd.chunk.js.map",
+    "runtime-main.js": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/js/runtime-main.d06b9d68.js",
+    "runtime-main.js.map": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/js/runtime-main.d06b9d68.js.map",
+    "static/js/2.f09ac238.chunk.js": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/js/2.f09ac238.chunk.js",
+    "static/js/2.f09ac238.chunk.js.map": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/js/2.f09ac238.chunk.js.map",
+    "index.html": "https://dhruvsuvarna.github.io/csb-mh8tcp/index.html",
+    "static/css/main.857bc498.chunk.css.map": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/css/main.857bc498.chunk.css.map",
+    "static/js/2.f09ac238.chunk.js.LICENSE.txt": "https://dhruvsuvarna.github.io/csb-mh8tcp/static/js/2.f09ac238.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d06b9d68.js",
+    "static/js/2.f09ac238.chunk.js",
+    "static/css/main.857bc498.chunk.css",
+    "static/js/main.738bdfbd.chunk.js"
+  ]
+}
